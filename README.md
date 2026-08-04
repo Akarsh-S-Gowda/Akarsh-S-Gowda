@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd-year Information Science Engineering student with strong skills in DSA and programming (C, C++, Python, Java). Passionate about problem-solving, teamwork, and continuous learning, with a keen interest in building efficient tech solutions.
+Final year Information Science Engineering student with strong skills in DSA and programming (C, C++, Python, Java). Passionate about problem-solving, teamwork, and continuous learning, with a keen interest in building efficient tech solutions.
 
 
 ## 🌐 Socials:
