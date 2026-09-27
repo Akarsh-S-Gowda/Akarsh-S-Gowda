@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repositories shown on the GitHub profile.",
+  "projects": [
+    {
+      "repo": "ELDER",
+      "description": "A MERN-based elderly-care platform with health monitoring, reminders, family connectivity, AI assistance, SOS alerts, and wellness management."
+    },
+    {
+      "repo": "genetic-algo-timetable",
+      "description": "An automated timetable scheduling system that uses a Genetic Algorithm to generate optimized academic schedules."
+    },
+    {
+      "repo": "Hand-Air-Drawing",
+      "description": "A real-time computer vision application for gesture-controlled air drawing using MediaPipe and OpenCV."
+    },
+    {
+      "repo": "MiniGame",
+      "description": "A responsive web-based interactive game application built with Next.js and Tailwind CSS."
+    }
+  ]
+}

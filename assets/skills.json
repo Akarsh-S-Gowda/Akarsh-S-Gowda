@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skill levels from 0-100.",
+  "axes": [
+    { "label": "C++", "value": 75 },
+    { "label": "Java", "value": 75 },
+    { "label": "Python", "value": 65 },
+    { "label": "DSA", "value": 75 },
+    { "label": "Web Development", "value": 70 },
+    { "label": "Databases", "value": 75 },
+    { "label": "Backend", "value": 65 }
+  ]
+}
